@@ -109,7 +109,7 @@ ${social.signature
           : "N/A"
       }
 
-✨ Powered by 𝐌ᴏʜᴀᴍᴍᴀᴅ Aᴋᴀsʜ
+✨ Powered by MAHTAB AHMAD
 `;
 
       await api.editMessage(msg, wait.messageID);
