@@ -19,8 +19,8 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100088743764633",
-    "100088743764633"
+    "100087439398285",
+    "100087439398285"
   ],
   "reactUnsend": {
     "enable": true,
@@ -31,8 +31,8 @@
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "100088743764633",
-      "100088743764633"
+      "100087439398285",
+      "100087439398285"
     ],
     "notes": "If enabled, only IDs in whiteListIds can use the bot."
   },
