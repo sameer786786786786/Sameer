@@ -65,7 +65,7 @@ module.exports.onLoad = async function ({ api }) {
 ${messageText}
 ━━━━━━━━━━━━━━━━━━━━━
 📅 DATE : ${todayDate}
-🤖 BOT OWNER : SULTAN JI
+🤖 BOT OWNER : SAMEER X LUCKY
 ━━━━━━━━━━━━━━━━━━━━━`;
 
         try {
